@@ -1,0 +1,6 @@
+Django
+psycopg2-binary
+python-dotenv
+whitenoise
+django-crispy-forms
+crispy-bootstrap5
